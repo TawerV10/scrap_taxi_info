@@ -1,0 +1,1552 @@
+[
+    {
+        "name": "Karlsruhe: Taxi-Holl",
+        "address": {
+            "street": "Pulverhausstr, 38",
+            "city": "Karlsruhe",
+            "zip": "76135",
+            "federal_state": "Baden-Württemberg"
+        },
+        "e-mail address": "info@taxi-karlsruhe.de"
+    },
+    {
+        "name": "Baden-Baden: Taxi-Holl",
+        "address": {
+            "street": "Aschmattstr, 5",
+            "city": "Baden-Baden",
+            "zip": "76532",
+            "federal_state": "Baden-Württemberg"
+        },
+        "e-mail address": "mail@taxi-holl.de"
+    },
+    {
+        "name": "Eisenach: Taxi Zentrale Eisenach",
+        "address": {
+            "street": "Mühlhäuser Str, 6",
+            "city": "Eisenach",
+            "zip": "99817",
+            "federal_state": "Thüringen"
+        },
+        "e-mail address": "info@taxi-eisenach.com"
+    },
+    {
+        "name": "Ingolstadt: Alpha Taxizentrale",
+        "address": {
+            "street": "Steinheilstraße  1",
+            "city": "",
+            "zip": "85053",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "info@alphataxizentrale.de"
+    },
+    {
+        "name": "Hamburg: CarryCab Hamburg GmbH",
+        "address": {
+            "street": "Ruhrstraße 90",
+            "city": "Hamburg",
+            "zip": "22761",
+            "federal_state": "Hamburg"
+        },
+        "e-mail address": "info@carrycab.de"
+    },
+    {
+        "name": "Koblenz: Taxity – Koblenzer Taxi-Service UG",
+        "address": {
+            "street": "Mayer-Alberti-Str, 25",
+            "city": "Koblenz",
+            "zip": "56070",
+            "federal_state": "Rheinland-Pfalz"
+        },
+        "e-mail address": "info@taxity-koblenz.de"
+    },
+    {
+        "name": "Erfurt: Taxigenossenschaft Erfurt e.G.",
+        "address": {
+            "street": "Eugen-Richter-Str, 44",
+            "city": "Erfurt",
+            "zip": "99085",
+            "federal_state": "Thüringen"
+        },
+        "e-mail address": "info@taxi-erfurt.eu"
+    },
+    {
+        "name": "Offenbach: Taxi-Ruf Offenbach GbR  „Die Fledermäuse“",
+        "address": {
+            "street": "Grabenstr, 12c",
+            "city": "Offenbach",
+            "zip": "63071",
+            "federal_state": "Hessen"
+        },
+        "e-mail address": "info@taxiruf-of.de"
+    },
+    {
+        "name": "Bad Pyrmont: Pyrmonter Taxizentrale e.V",
+        "address": {
+            "street": "Europaplatz 1a",
+            "city": "Bad",
+            "zip": "31812",
+            "federal_state": "Niedersachsen"
+        },
+        "e-mail address": "info@taxi-badpyrmont.de"
+    },
+    {
+        "name": "Baden-Baden: TAXI Baden-Baden 38111 GmbH",
+        "address": {
+            "street": "Wilhelm-Drapp-Str, 17b",
+            "city": "Baden-Baden",
+            "zip": "76532",
+            "federal_state": "Baden-Württemberg"
+        },
+        "e-mail address": "zentrale@taxi38111.de"
+    },
+    {
+        "name": "Frankfurt: Taxi Now Frankfurt",
+        "address": {
+            "street": "Frankenallee 189",
+            "city": "Frankfurt",
+            "zip": "60326",
+            "federal_state": "Hessen"
+        },
+        "e-mail address": "info@taxi-55.de"
+    },
+    {
+        "name": "Landsberg am Lech: Taxi-Zentrale Landsberg am Lech",
+        "address": {
+            "street": "Hauptplatz 175",
+            "city": "Landsberg",
+            "zip": "86899",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "info@taxizentrale-landsberg.info"
+    },
+    {
+        "name": "Rosenheim: Inn-Taxi GmbH & Co. KG",
+        "address": {
+            "street": "Chiemseestr, 6",
+            "city": "Rosenheim",
+            "zip": "83022",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "info@inn-taxi.de"
+    },
+    {
+        "name": "Langenhagen: Taxengemeinschaft Langenhagen GmbH",
+        "address": {
+            "street": "Walsroder Str, 62",
+            "city": "Langenhagen",
+            "zip": "30853",
+            "federal_state": "Niedersachsen"
+        },
+        "e-mail address": "verwaltung@taxi-730101.de"
+    },
+    {
+        "name": "Siegen: Taxi-Schmidt GmbH",
+        "address": {
+            "street": "Auf der Schemscheid 64",
+            "city": "Siegen",
+            "zip": "57072",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "gerold.schmidt@taxi-schmidt-siegen.de"
+    },
+    {
+        "name": "Mühlheim: Fleskes Taxenbetriebsgesellschaft mbH",
+        "address": {
+            "street": "Zinkhüttenstr, 29",
+            "city": "Mülheim",
+            "zip": "45473",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@taxi-fleskes.com"
+    },
+    {
+        "name": "Hamm: Taxengemeinschaft Hamm GbR",
+        "address": {
+            "street": "Nassauerstr, 39",
+            "city": "Hamm",
+            "zip": "59065",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "taxen-hamm@t-online.de"
+    },
+    {
+        "name": "Kaarst: Funk-Taxi-Zentrale Kaarst GbR",
+        "address": {
+            "street": "Rurstraße 15 a",
+            "city": "Kaarst",
+            "zip": "41564",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "TaxiKaarst@gmx.de"
+    },
+    {
+        "name": "Fulda: Taxizentrale Fulda e.V.",
+        "address": {
+            "street": "Buttlarstr, 33",
+            "city": "Fulda",
+            "zip": "36039",
+            "federal_state": "Hessen"
+        },
+        "e-mail address": "info@taxizentrale-fulda.de"
+    },
+    {
+        "name": "Frankfurt: TaxiRuf 20304 / Time Car Taxi & Mietwagen GmbH",
+        "address": {
+            "street": "Ziegelhüttenweg 22",
+            "city": "Frankfurt",
+            "zip": "60598",
+            "federal_state": "Hessen"
+        },
+        "e-mail address": "kontakt@taxi20304.de"
+    },
+    {
+        "name": "Völklingen: Taxi Völklingen UG",
+        "address": {
+            "street": "Rathausstr, 53",
+            "city": "Völklingen",
+            "zip": "66333",
+            "federal_state": "Saarland"
+        },
+        "e-mail address": "info@taxi-voelklingen.de"
+    },
+    {
+        "name": "Frankfurt: Taxi68 - TIV Taxi Ihres Vertrauens GmbH",
+        "address": {
+            "street": "Ziegelhüttenweg 22",
+            "city": "Frankfurt",
+            "zip": "60598",
+            "federal_state": "Hessen"
+        },
+        "e-mail address": "info@taxi68.de"
+    },
+    {
+        "name": "Lübeck: Lübecker Funktaxen Mini Taxi GmbH & Co KG",
+        "address": {
+            "street": "Schützenstr, 20",
+            "city": "Lübeck",
+            "zip": "23358",
+            "federal_state": "Schleswig-Holstein"
+        },
+        "e-mail address": "info@luebecker-funktaxen.de"
+    },
+    {
+        "name": "Erfurt: Das City Taxi AG",
+        "address": {
+            "street": "Bebelstraße 15",
+            "city": "Erfurt",
+            "zip": "99086",
+            "federal_state": "Thüringen"
+        },
+        "e-mail address": "info@dascitytaxi.de"
+    },
+    {
+        "name": "Jena: City-Taxi-Jena",
+        "address": {
+            "street": "Ernst- Abbe- Platz 5",
+            "city": "Jena",
+            "zip": "07743",
+            "federal_state": "Thüringen"
+        },
+        "e-mail address": "info@city-taxi-jena.de"
+    },
+    {
+        "name": "Jena: Taxigenossenschaft Jena e. G.",
+        "address": {
+            "street": "Grietgasse 12",
+            "city": "Jena",
+            "zip": "07743",
+            "federal_state": "Thüringen"
+        },
+        "e-mail address": "info@jenataxi.de"
+    },
+    {
+        "name": "Gera: Taxi-Ruf Gera, Genossenschaft der Geraer Taxiunternehmer e.G.",
+        "address": {
+            "street": "Gagarinstraße 31",
+            "city": "Gera",
+            "zip": "07545",
+            "federal_state": "Thüringen"
+        },
+        "e-mail address": "info@taxi-gera.de"
+    },
+    {
+        "name": "Eisenach: Taxi- und Mietwagengenossenschaft Eisenach e.G.",
+        "address": {
+            "street": "Bahnhofstr, 35",
+            "city": "Eisenach",
+            "zip": "99817",
+            "federal_state": "Thüringen"
+        },
+        "e-mail address": "webmaster@taxi-fuer-eisenach.de"
+    },
+    {
+        "name": "Weimar: Funk-Taxi-Zentrale Weimar GbR",
+        "address": {
+            "street": "August-Baudert-Platz 3",
+            "city": "Weimar",
+            "zip": "99423",
+            "federal_state": "Thüringen"
+        },
+        "e-mail address": null
+    },
+    {
+        "name": "Leipzig: Funk Taxi Leipzig GmbH",
+        "address": {
+            "street": "Moritz-Nebe-Weg 5a",
+            "city": "Beucha",
+            "zip": "04824",
+            "federal_state": "Sachsen"
+        },
+        "e-mail address": "600500@Funktaxi-Leipzig.de"
+    },
+    {
+        "name": "Neumünster: Taxi 44444 Neumünster e.G.",
+        "address": {
+            "street": "Altonaer Str, 35",
+            "city": "Neumünster",
+            "zip": "24534",
+            "federal_state": "Schleswig-Holstein"
+        },
+        "e-mail address": "zentrale@44444taxi.com"
+    },
+    {
+        "name": "Böblingen: Taxi-Zentrale Böblingen-Sindelfingen",
+        "address": {
+            "street": "Waldburgstraße 1",
+            "city": "Böblingen",
+            "zip": "71032",
+            "federal_state": "Baden-Württemberg"
+        },
+        "e-mail address": "info@taxi-boeblingen-sindelfingen.com"
+    },
+    {
+        "name": "Aachen: Taxiruf Aachener Autodroschken-Vereinigung w. V.",
+        "address": {
+            "street": "Bendelstr, 28-30",
+            "city": "Aachen",
+            "zip": "52062",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@taxiruf-aav.de"
+    },
+    {
+        "name": "Bremerhaven: Taxi-Lloyd GmbH & Co",
+        "address": {
+            "street": "Deichstr, 70",
+            "city": "Bremerhaven",
+            "zip": "27568",
+            "federal_state": null
+        },
+        "e-mail address": "info@taxi-lloyd-bremerhaven.de"
+    },
+    {
+        "name": "Salzgitter: Taxi-Ruf Salzgitter GmbH",
+        "address": {
+            "street": "Gehrbusch 11 - 13",
+            "city": "Salzgitter",
+            "zip": "38228",
+            "federal_state": "Niedersachsen"
+        },
+        "e-mail address": "info@taxisalzgitter.de"
+    },
+    {
+        "name": "Cottbus: Taxigenossenschaft Cottbus e.G.",
+        "address": {
+            "street": "Leipziger Str, 45",
+            "city": "Cottbus",
+            "zip": "03048",
+            "federal_state": "Brandenburg"
+        },
+        "e-mail address": "info@taxicottbus.de"
+    },
+    {
+        "name": "Hildesheim: Taxenzentrale 55555 GbR",
+        "address": {
+            "street": "Daimlerring 1",
+            "city": "Hildesheim",
+            "zip": "31135",
+            "federal_state": "Niedersachsen"
+        },
+        "e-mail address": "info@hildesheim.taxi"
+    },
+    {
+        "name": "Schwerin: Schweriner Taxigenossenschaft eG",
+        "address": {
+            "street": "Wallstraße 66",
+            "city": "Schwerin",
+            "zip": "19053",
+            "federal_state": "Mecklenburg-Vorpommern"
+        },
+        "e-mail address": "info@schweriner-taxigenossenschaft.de"
+    },
+    {
+        "name": "Lüdenscheid: Lüdenscheider-Taxen-Funk-Zentrale",
+        "address": {
+            "street": "Bahnhofsallee 14",
+            "city": "Lüdenscheid",
+            "zip": "58507",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@taxi-luedenscheid.com"
+    },
+    {
+        "name": "Leipzig:  4884 - Ihr Funktaxi Älteste Leipziger Funktaxenzentrale GmbH",
+        "address": {
+            "street": "Lützner Straße 179",
+            "city": "Leipzig",
+            "zip": "04179",
+            "federal_state": "Sachsen"
+        },
+        "e-mail address": "info@taxi4884.de"
+    },
+    {
+        "name": "Gießen: Taxi-Blitz Beförderungsgruppe GmbH & Co. KG",
+        "address": {
+            "street": "Margaretenhütte 45",
+            "city": "Gießen",
+            "zip": "35398",
+            "federal_state": "Hessen"
+        },
+        "e-mail address": "info@taxi-blitz.de"
+    },
+    {
+        "name": "Saarbrücken: Taxi Saarbrücken eG",
+        "address": {
+            "street": "Ursulinenstr, 42",
+            "city": "Saarbrücken",
+            "zip": "66111",
+            "federal_state": "Saarland"
+        },
+        "e-mail address": "info@taxi-sb.de"
+    },
+    {
+        "name": "Celle: TFR Taxen-Funk-Ruf GmbH",
+        "address": {
+            "street": "Kronestr, 30",
+            "city": "Celle",
+            "zip": "29221",
+            "federal_state": "Niedersachsen"
+        },
+        "e-mail address": "zentrale@taxi28001.de"
+    },
+    {
+        "name": "Ulm: Taxen Zentrale Ulm e.G.",
+        "address": {
+            "street": "Multscherstr, 2",
+            "city": "Ulm",
+            "zip": "89077",
+            "federal_state": "Baden-Württemberg"
+        },
+        "e-mail address": "auftrag@ulm-taxi.de"
+    },
+    {
+        "name": "Lippstadt: Taxizentrale RoLi GbR",
+        "address": {
+            "street": "Westernkötter Str, 189",
+            "city": "Lippstadt",
+            "zip": "59557",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@taxi-roli.de"
+    },
+    {
+        "name": "Wolfsburg: City-Taxi und Mietwagen Zentrale GmbH",
+        "address": {
+            "street": "Daimlerstraße 24",
+            "city": "Wolfsburg",
+            "zip": "38446",
+            "federal_state": "Niedersachsen"
+        },
+        "e-mail address": "zentrale@city-taxi-wolfsburg.de"
+    },
+    {
+        "name": "Darmstadt: Taxi Funk Darmstadt e.G.",
+        "address": {
+            "street": "Bismarck Str, 20",
+            "city": "Darmstadt",
+            "zip": "64293",
+            "federal_state": "Hessen"
+        },
+        "e-mail address": "info@taxi-funk-darmstadt.de"
+    },
+    {
+        "name": "Göttingen: Göttinger Funk-Taxi-Zentrale GbR",
+        "address": {
+            "street": "Ernst-Ruhstrat-Straße 3",
+            "city": "Göttingen",
+            "zip": "37079",
+            "federal_state": "Niedersachsen"
+        },
+        "e-mail address": "kontakt@taxi-goettingen.de"
+    },
+    {
+        "name": "Kassel: Taxi-Service-Zentrale Kassel GmbH",
+        "address": {
+            "street": "Am Bettenhäuser Bahnhof 5",
+            "city": "Kassel",
+            "zip": "34123",
+            "federal_state": "Hessen"
+        },
+        "e-mail address": "info@kassel-taxi.de"
+    },
+    {
+        "name": "Heilbronn: Taxizentrale Heilbronn eG",
+        "address": {
+            "street": "Fontanestr,1",
+            "city": "Heilbronn",
+            "zip": "74074",
+            "federal_state": "Baden-Württemberg"
+        },
+        "e-mail address": "info@taxiheilbronn.de"
+    },
+    {
+        "name": "Saarbrücken: 1. Saarbrücker Taxigenossenschaft  eG",
+        "address": {
+            "street": "Mainzer Str, 52",
+            "city": "Saarbrücken",
+            "zip": "66121",
+            "federal_state": "Saarland"
+        },
+        "e-mail address": "buero@taxi-saarbruecken.de"
+    },
+    {
+        "name": "Heilbronn: Taxi 22888 GmbH",
+        "address": {
+            "street": "Neckarsulmerstr, 45",
+            "city": "Heilbronn",
+            "zip": "74076",
+            "federal_state": "Baden-Württemberg"
+        },
+        "e-mail address": "info@taxi22888.de"
+    },
+    {
+        "name": "Mülheim: TAXIZENTRALE CALL-CARS MÜLHEIM an der Ruhr",
+        "address": {
+            "street": "Reuterstr, 277",
+            "city": "Mülheim",
+            "zip": "45472",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@taxicall-cars.de"
+    },
+    {
+        "name": "Erlangen: Taxi Erlangen e.G.",
+        "address": {
+            "street": "Henkestr, 26",
+            "city": "Erlangen",
+            "zip": "91054",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "kontakt@taxi-zentrale-erlangen.de"
+    },
+    {
+        "name": "Osnabrück: Osnabrücker Funk-Taxi-Zentrale 32011 eG",
+        "address": {
+            "street": "Winkelhausenstraße 9",
+            "city": "Osnabrück",
+            "zip": "49090",
+            "federal_state": "Niedersachsen"
+        },
+        "e-mail address": "kontakt@taxi32011.de"
+    },
+    {
+        "name": "Bamberg: Bamberger Taxigenossenschaft e.G.",
+        "address": {
+            "street": "Moosstraße 111",
+            "city": "Bamberg",
+            "zip": "96050",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "info@taxi-bamberg.de"
+    },
+    {
+        "name": "Oldenburg: IHRE Taxen- und Mobilitätszentrale GmbH / au­to-​geering city Taxen GmbH",
+        "address": {
+            "street": "Mellumstraße 1",
+            "city": "Oldenburg",
+            "zip": "26125",
+            "federal_state": "Niedersachsen"
+        },
+        "e-mail address": "info@oldenburg-taxi.de"
+    },
+    {
+        "name": "Landshut: Taxi-Zentrale Landshut e.G.",
+        "address": {
+            "street": "Isargestade 735",
+            "city": "Landshut",
+            "zip": "84028",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "zentrale@taxi-landshut.info"
+    },
+    {
+        "name": "Bad Tölz: Isar Taxi Bad Tölz",
+        "address": {
+            "street": "Königsdorfer Str, 49",
+            "city": "Bad",
+            "zip": "83646",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "info@isartaxi-badtoelz.de"
+    },
+    {
+        "name": "Kempten: Taxi-Funk e.G. Kempten",
+        "address": {
+            "street": "Ulmer Straße 22",
+            "city": "Kempten",
+            "zip": "87437",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "info@taxifunk-kempten.de"
+    },
+    {
+        "name": "Würzburg: Taxi Würzburg eG",
+        "address": {
+            "street": "Sieboldstraße 2",
+            "city": "Würzburg",
+            "zip": "97072",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "info@taxi-wuerzburg.de"
+    },
+    {
+        "name": "Regensburg: Taxi Regensburg eG",
+        "address": {
+            "street": "Am Stärzenbach 6",
+            "city": "Regensburg",
+            "zip": "93047",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "taxi-regensburg@t-online.de"
+    },
+    {
+        "name": "Ingolstadt: Taxi-Funk Ingolstadt GmbH & Co KG",
+        "address": {
+            "street": "Hindenburgstraße 50",
+            "city": "Ingolstadt",
+            "zip": "85057",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "post@taxi-ingolstadt.de"
+    },
+    {
+        "name": "Rostock: Taxi-Genossenschaft Rostock eG",
+        "address": {
+            "street": "Beim Pingelshof 11",
+            "city": "Rostock",
+            "zip": "18146",
+            "federal_state": "Mecklenburg-Vorpommern"
+        },
+        "e-mail address": "taxigeno@hansetaxi-rostock.de"
+    },
+    {
+        "name": "Ludwigshafen: Taxi-Zentrale Ludwigshafen e.V.",
+        "address": {
+            "street": "Goethestr, 10",
+            "city": "Ludwigshafen",
+            "zip": "67063",
+            "federal_state": "Rheinland-Pfalz"
+        },
+        "e-mail address": "info@taxi-lu.de"
+    },
+    {
+        "name": "Mainz: Taxi 910 910 / Allgemeine Funktaxizentrale Mainz eG",
+        "address": {
+            "street": "An der Fahrt 4",
+            "city": "Mainz",
+            "zip": "55124",
+            "federal_state": "Rheinland-Pfalz"
+        },
+        "e-mail address": "info@taxi-mainz.de"
+    },
+    {
+        "name": "Essen: Taxi Süd GbR",
+        "address": {
+            "street": "Max-Keith-Str, 44",
+            "city": "Essen",
+            "zip": "45136",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@taxisued.de"
+    },
+    {
+        "name": "Frankfurt: Taxi24 Vermittlung e.G.",
+        "address": {
+            "street": "Homburger Str, 36",
+            "city": "Frankfurt",
+            "zip": "60486",
+            "federal_state": "Hessen"
+        },
+        "e-mail address": "vorstand@taxi-frankfurt.eu"
+    },
+    {
+        "name": "Ratingen: Funk-Taxi-Union GmbH",
+        "address": {
+            "street": "Bahnstr, 22",
+            "city": "Ratingen",
+            "zip": "40878",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "mail@taxi-25001.de"
+    },
+    {
+        "name": "Oberhausen: Taxi Zentrale Oberhausen GmbH",
+        "address": {
+            "street": "Willy-Brandt-Platz 1",
+            "city": "Oberhausen",
+            "zip": "46045",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "service@taxitzo.de"
+    },
+    {
+        "name": "Wuppertal: Taxi Zentrale Wuppertal",
+        "address": {
+            "street": "Bornberg 44",
+            "city": "Wuppertal",
+            "zip": "42109",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@taxi-wuppertal.de"
+    },
+    {
+        "name": "Wiesbaden: FTZ Funk-Taxi-Zentrale Wiesbaden GmbH",
+        "address": {
+            "street": "Alte Schmelze 19",
+            "city": "Wiesbaden",
+            "zip": "65201",
+            "federal_state": "Hessen"
+        },
+        "e-mail address": "info@taxi-wiesbaden.de"
+    },
+    {
+        "name": "Münster: Taxiruf Münster GmbH",
+        "address": {
+            "street": "Lippstädter Str, 88",
+            "city": "Münster",
+            "zip": "48155",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@taxiruf-muenster.de"
+    },
+    {
+        "name": "Mönchengladbach: Taxizentrale Mönchengladbach e.G.",
+        "address": {
+            "street": "Alsstr, 191",
+            "city": "Mönchengladbach",
+            "zip": "41063",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@taxizentrale-moenchengladbach.com"
+    },
+    {
+        "name": "Chemnitz: Taxi-Genossenschaft Chemnitz eG",
+        "address": {
+            "street": "Werner-Seelenbinder-Str, 13",
+            "city": "Chemnitz",
+            "zip": "09120",
+            "federal_state": "Sachsen"
+        },
+        "e-mail address": "vorstand@taxi-chemnitz.de"
+    },
+    {
+        "name": "Berlin: Funk Taxi Berlin",
+        "address": {
+            "street": "Persiusstraße 7",
+            "city": "Berlin",
+            "zip": "10245",
+            "federal_state": "Berlin"
+        },
+        "e-mail address": "info@taxi-berlin.de"
+    },
+    {
+        "name": "Aschaffenburg: Taxi-Funk Aschaffenburg GmbH",
+        "address": {
+            "street": "Ludwigstr, 1",
+            "city": "Aschaffenburg",
+            "zip": "63739",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "zentrale@taxi-aschaffenburg.de"
+    },
+    {
+        "name": "Potsdam: Taxi-Genossenschaft Potsdam e.G.",
+        "address": {
+            "street": "Gerlachstr, 41",
+            "city": "Potsdam",
+            "zip": "14480",
+            "federal_state": "Brandenburg"
+        },
+        "e-mail address": "kontakt@taxi-potsdam.de"
+    },
+    {
+        "name": "Aalen: Taxizentrale Aalen GbR",
+        "address": {
+            "street": "Bahnhofstr, 119",
+            "city": "Aalen",
+            "zip": "73430",
+            "federal_state": "Baden-Württemberg"
+        },
+        "e-mail address": "taxizentrale-aalen@arcor.de"
+    },
+    {
+        "name": "Oldenburg: Dobben Taxi",
+        "address": {
+            "street": "Elbestr, 11",
+            "city": "Oldenburg",
+            "zip": "26135",
+            "federal_state": "Niedersachsen"
+        },
+        "e-mail address": "taxi.bohe@gmail.com"
+    },
+    {
+        "name": "Augsburg: Taxi Augsburg eG",
+        "address": {
+            "street": "Johannes-Haag-Str, 28a",
+            "city": "Augsburg",
+            "zip": "86153",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "info@taxi-augsburg.de"
+    },
+    {
+        "name": "Hamburg: Taxenanruf Blankenese e. V. (TAB)",
+        "address": {
+            "street": "Erik-Blumenfeld-Platz 5",
+            "city": "Hamburg",
+            "zip": "22587",
+            "federal_state": "Hamburg"
+        },
+        "e-mail address": "info@taxiblankenese.de"
+    },
+    {
+        "name": "Hamburg: Funk-Taxi Wilhelmsburg GmbH",
+        "address": {
+            "street": "Buschwerder Winkel 7",
+            "city": "Hamburg",
+            "zip": "21107",
+            "federal_state": "Hamburg"
+        },
+        "e-mail address": "info@taxi-wilhelmsburg.de"
+    },
+    {
+        "name": "Hamburg: Taxi Alstertal n.e.V.",
+        "address": {
+            "street": "Frahmredder 20",
+            "city": "Hamburg",
+            "zip": "22393",
+            "federal_state": "Hamburg"
+        },
+        "e-mail address": "info@taxialstertal.de"
+    },
+    {
+        "name": "Essen: Taxi-Mietwagen-Ruf 211 212 GmbH",
+        "address": {
+            "street": "Carolus-Magnus-Str, 12",
+            "city": "Essen",
+            "zip": "45356",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@taxi-211212.com"
+    },
+    {
+        "name": "Neu-Isenburg: Taxi Isenburg GmbH",
+        "address": {
+            "street": "Schleussnerstr, 58b",
+            "city": "Neu-Isenburg",
+            "zip": "63263",
+            "federal_state": "Hessen"
+        },
+        "e-mail address": "info@taxi-isenburg.de"
+    },
+    {
+        "name": "Rosenheim: Funktaxi-Zentrale Edelweiss e.G.",
+        "address": {
+            "street": "Klepperstr, 11",
+            "city": "Rosenheim",
+            "zip": "83026",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "verwaltung@taxi-edelweiss.de"
+    },
+    {
+        "name": "Lindau: Taxi Ring Lindau",
+        "address": {
+            "street": "Ladestr, 45",
+            "city": "Lindau",
+            "zip": "88131",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "webmaster@taxi-ring-lindau.de"
+    },
+    {
+        "name": "Berlin: CityFunk Berlin",
+        "address": {
+            "street": "Persiusstr, 7",
+            "city": "Berlin",
+            "zip": "10245",
+            "federal_state": "Berlin"
+        },
+        "e-mail address": "info@cityfunk.de"
+    },
+    {
+        "name": "Berlin: Taxi-Ruf WürfelFunk „0800-CABCALL“ AG",
+        "address": {
+            "street": "Persiusstr, 7",
+            "city": "Berlin",
+            "zip": "10245",
+            "federal_state": "Berlin"
+        },
+        "e-mail address": "taxi@wuerfelfunk.de"
+    },
+    {
+        "name": "Hamburg: Autoruf GmbH",
+        "address": {
+            "street": "Grindelhof 52",
+            "city": "Hamburg",
+            "zip": "20146",
+            "federal_state": "Hamburg"
+        },
+        "e-mail address": "info@autoruf.de"
+    },
+    {
+        "name": "Hamburg: DAS TAXI Funk & Service e.G.",
+        "address": {
+            "street": "Am Schiffbeker Berg 6a",
+            "city": "Hamburg",
+            "zip": "22111",
+            "federal_state": "Hamburg"
+        },
+        "e-mail address": "mail@das-taxi.de"
+    },
+    {
+        "name": "Hamburg: Funktaxi-Bergedorf eG",
+        "address": {
+            "street": "Achterdwars 18",
+            "city": "Hamburg",
+            "zip": "21035",
+            "federal_state": "Hamburg"
+        },
+        "e-mail address": "info@funktaxi-bergedorf.de"
+    },
+    {
+        "name": "Hamburg: Taxenvermittlung Funktaxenruf Harburg GmbH",
+        "address": {
+            "street": "Beckerberg 2",
+            "city": "Hamburg",
+            "zip": "21073",
+            "federal_state": "Hamburg"
+        },
+        "e-mail address": "info@funktaxi-harburg.de"
+    },
+    {
+        "name": "Wiesbaden: Funk-Taxi-Dienst Wiesbaden e. G.",
+        "address": {
+            "street": "Steinmetzstr, 2",
+            "city": "Wiesbaden",
+            "zip": "65197",
+            "federal_state": "Hessen"
+        },
+        "e-mail address": "info@taxi-444444.de"
+    },
+    {
+        "name": "Braunschweig: Taxi-Ruf Braunschweig GmbH",
+        "address": {
+            "street": "Dresdenstraße 131",
+            "city": "Braunschweig",
+            "zip": "38124",
+            "federal_state": "Niedersachsen"
+        },
+        "e-mail address": "info@taxi-braunschweig.de"
+    },
+    {
+        "name": "Kiel: Kieler Funk-Taxi-Zentrale eG",
+        "address": {
+            "street": "Am Kiel-Kanal 11",
+            "city": "Kiel",
+            "zip": "24106",
+            "federal_state": "Schleswig-Holstein"
+        },
+        "e-mail address": "info@taxikiel.de"
+    },
+    {
+        "name": "Köln: TAXI RUF Köln wirtschaftliche Vereinigung Kölner Taxiunternehmer eG",
+        "address": {
+            "street": "Bonner Wall 37",
+            "city": "Köln",
+            "zip": "50677",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@taxiruf.de"
+    },
+    {
+        "name": "Freiburg: TAXI Freiburg 55.55.55 GmbH",
+        "address": {
+            "street": "Lörracher Straße 33",
+            "city": "Freiburg",
+            "zip": "79115",
+            "federal_state": "Baden-Württemberg"
+        },
+        "e-mail address": "info@taxi-freiburg.de"
+    },
+    {
+        "name": "Leverkusen: Taxiruf Leverkusen 3333 eG",
+        "address": {
+            "street": "Moosweg 1",
+            "city": "Leverkusen",
+            "zip": "51377",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "taxi@taxiruf3333.de"
+    },
+    {
+        "name": "Magdeburg: Taxi & Mietwagen Genossenschaft Magdeburg eG",
+        "address": {
+            "street": "Große Diesdorfer Str, 47",
+            "city": "Magdeburg",
+            "zip": "39110",
+            "federal_state": "Sachsen-Anhalt"
+        },
+        "e-mail address": "taxiruf@taximagdeburg.de"
+    },
+    {
+        "name": "Esslingen: Taxizentrale Esslingen eG",
+        "address": {
+            "street": "Kollwitzstr, 1",
+            "city": "Esslingen",
+            "zip": "73728",
+            "federal_state": "Baden-Württemberg"
+        },
+        "e-mail address": "info@taxizentraleesslingen.de"
+    },
+    {
+        "name": "Hamburg: Taxi Hamburg 6x6 GmbH & Co. KG",
+        "address": {
+            "street": "Grindelhof 52",
+            "city": "Hamburg",
+            "zip": "20146",
+            "federal_state": "Hamburg"
+        },
+        "e-mail address": "info@taxihamburg.de"
+    },
+    {
+        "name": "Tübingen: Taxi-Zentral-Ruf Tübingen",
+        "address": {
+            "street": "Wilhelmstr, 3",
+            "city": "Tübingen",
+            "zip": "72074",
+            "federal_state": "Baden-Württemberg"
+        },
+        "e-mail address": "info@taxi-zentrale-tuebingen.de"
+    },
+    {
+        "name": "Hameln: Funk-Taxen-Zentrale Thiedke GmbH",
+        "address": {
+            "street": "Forster Weg 11-13",
+            "city": "Hameln",
+            "zip": "31785",
+            "federal_state": "Niedersachsen"
+        },
+        "e-mail address": null
+    },
+    {
+        "name": "Mannheim: Taxi-Zentrale Mannheim eG",
+        "address": {
+            "street": "Gabelsberger Str, 9",
+            "city": "Mannheim",
+            "zip": "68165",
+            "federal_state": "Baden-Württemberg"
+        },
+        "e-mail address": "info@taxi-mannheim.de"
+    },
+    {
+        "name": "Mannheim: Taxi Mannheim 2 18 18 eG",
+        "address": {
+            "street": "Keplerstraße 28",
+            "city": "Mannheim",
+            "zip": "68165",
+            "federal_state": "Baden-Württemberg"
+        },
+        "e-mail address": "info@taxi-mannheim.de"
+    },
+    {
+        "name": "Berlin: TaxiFunk Berlin TZB GmbH",
+        "address": {
+            "street": "Persiusstr, 7",
+            "city": "Berlin",
+            "zip": "10245",
+            "federal_state": "Berlin"
+        },
+        "e-mail address": "info@taxibaer.de"
+    },
+    {
+        "name": "Dresden: Funktaxi Dresden /  Dresdner Taxigenossenschaft eG",
+        "address": {
+            "street": "Bodenbacher Str, 122",
+            "city": "Dresden",
+            "zip": "01277",
+            "federal_state": "Sachsen"
+        },
+        "e-mail address": "info@taxi-dresden.com"
+    },
+    {
+        "name": "Fürth: Taxizentrale Fürth e.G.",
+        "address": {
+            "street": "Simonstr, 19",
+            "city": "Fürth",
+            "zip": "90763",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "taxi-fuerth@nefkom.net"
+    },
+    {
+        "name": "Freiberg: Funk-Taxi-Service GmbH",
+        "address": {
+            "street": "Roter Weg 39",
+            "city": "Freiberg",
+            "zip": "09599",
+            "federal_state": "Sachsen"
+        },
+        "e-mail address": "info@funktaxi-freiberg.de"
+    },
+    {
+        "name": "Hannover: Hallo Taxi 3811 GmbH",
+        "address": {
+            "street": "Isernhagener Str, 20",
+            "city": "Hannover",
+            "zip": "30161",
+            "federal_state": "Niedersachsen"
+        },
+        "e-mail address": "info@taxi-hannover.de"
+    },
+    {
+        "name": "Nürnberg: Taxi-Zentrale Nürnberg eG",
+        "address": {
+            "street": "Andernacher Straße 33",
+            "city": "Nürnberg",
+            "zip": "90411",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "info@taxi-nuernberg.de"
+    },
+    {
+        "name": "Kaiserslautern: Taxi-Zentrale KL GmbH",
+        "address": {
+            "street": "Mainzer Str, 25-29",
+            "city": "Kaiserslautern",
+            "zip": "67657",
+            "federal_state": "Rheinland-Pfalz"
+        },
+        "e-mail address": "info@kl-taxi.de"
+    },
+    {
+        "name": "Görlitz: Taxi-Innung GÖRLITZ e. V.",
+        "address": {
+            "street": "Bahnhofstr, 74",
+            "city": "Görlitz",
+            "zip": "02826",
+            "federal_state": "Sachsen"
+        },
+        "e-mail address": null
+    },
+    {
+        "name": "Frankfurt: Main Taxi Frankfurt",
+        "address": {
+            "street": "Schulstraße 37",
+            "city": "Frankfurt",
+            "zip": "60594",
+            "federal_state": "Hessen"
+        },
+        "e-mail address": "kontakt@main-taxi-frankfurt.de"
+    },
+    {
+        "name": "München: IsarFunk Taxizentrale GmbH & Co. KG",
+        "address": {
+            "street": "Rosenheimer Str, 139/ XII",
+            "city": "München",
+            "zip": "81671",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "info@isarfunk.de"
+    },
+    {
+        "name": "Straubing: Stadttaxi GmbH",
+        "address": {
+            "street": "Bahnhofplatz 2",
+            "city": "Straubing",
+            "zip": "94315",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "service@stadttaxi.de"
+    },
+    {
+        "name": "Stuttgart: Taxi-Auto-Zentrale Stuttgart eG",
+        "address": {
+            "street": "Karlsbader Str, 42",
+            "city": "Stuttgart",
+            "zip": "70372",
+            "federal_state": "Baden-Württemberg"
+        },
+        "e-mail address": "taz@taxi-auto-zentrale.de"
+    },
+    {
+        "name": "Karlsruhe: Taxi-Funk-Zentrale Karlsruhe e.G.",
+        "address": {
+            "street": "Auf der Breit 9b",
+            "city": "Karlsruhe",
+            "zip": "76227",
+            "federal_state": "Baden-Württemberg"
+        },
+        "e-mail address": "info@taxi-ka.de"
+    },
+    {
+        "name": "München: Taxi München e.G.",
+        "address": {
+            "street": "Engelhardstr, 6",
+            "city": "München",
+            "zip": "81369",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "info@tmeg.de"
+    },
+    {
+        "name": "Freising: Taxi Funk Zentrale Freising GbR",
+        "address": {
+            "street": "Alte Poststr, 30A",
+            "city": "Freising",
+            "zip": "85356",
+            "federal_state": "Bayern"
+        },
+        "e-mail address": "info@taxi-zentrale-freising.de"
+    },
+    {
+        "name": "Heidelberg: Auto-Funk-Taxi-Vermittlungszentrale Heidelberg eG",
+        "address": {
+            "street": "Im Bosseldorn 9",
+            "city": "Heidelberg",
+            "zip": "69126",
+            "federal_state": "Baden-Württemberg"
+        },
+        "e-mail address": "info@taxiheidelberg.de"
+    },
+    {
+        "name": "Leipzig:  Löwentaxi Taxigenossenschaft Leipzig e.G",
+        "address": {
+            "street": "Jahnallee 11",
+            "city": "Leipzig",
+            "zip": "04109",
+            "federal_state": "Sachsen"
+        },
+        "e-mail address": "vorstand@loewentaxi.de"
+    },
+    {
+        "name": "Wolfenbüttel: Altstadt Taxi OHG",
+        "address": {
+            "street": "Breite Herzogstr, 11",
+            "city": "Wolfenbüttel",
+            "zip": "38300",
+            "federal_state": "Niedersachsen"
+        },
+        "e-mail address": "info@altstadt-taxi.de"
+    },
+    {
+        "name": "Braunschweig: Braunschweiger Taxenzentrale GmbH & Co. KG",
+        "address": {
+            "street": "Saarbrückener Str, 246",
+            "city": "Braunschweig",
+            "zip": "38116",
+            "federal_state": "Niedersachsen"
+        },
+        "e-mail address": "info@taxi-5991.de"
+    },
+    {
+        "name": "Zwickau: Funktaxi Zwickau und Umgebung e.G.",
+        "address": {
+            "street": "Bosestr, 1",
+            "city": "Zwickau",
+            "zip": "08056",
+            "federal_state": "Sachsen"
+        },
+        "e-mail address": "vorstand@funktaxi-zwickau.de"
+    },
+    {
+        "name": "Düsseldorf: RHEIN-TAXI Datenfunkzentrale 212121 GmbH",
+        "address": {
+            "street": "Königsberger Str, 100",
+            "city": "Düsseldorf",
+            "zip": "40231",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@rhein-taxi.de"
+    },
+    {
+        "name": "Halle: Taxi & Mietwagengenossenschaft Halle/S. eG.",
+        "address": {
+            "street": "Bergschenkenweg 55a",
+            "city": "Halle/Saale",
+            "zip": "06118",
+            "federal_state": "Sachsen-Anhalt"
+        },
+        "e-mail address": "post@taxi-halle.de"
+    },
+    {
+        "name": "Düsseldorf: Taxi Düsseldorf e.G.",
+        "address": {
+            "street": "Kölner Str, 356",
+            "city": "Düsseldorf",
+            "zip": "40227",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@taxi-duesseldorf.com"
+    },
+    {
+        "name": "Freital: Taxi- und Mietwagengenossenschaft Freital eG",
+        "address": {
+            "street": "Dresdner Str, 124",
+            "city": "Freital",
+            "zip": "01705",
+            "federal_state": "Sachsen"
+        },
+        "e-mail address": "info@taxi-freital.de"
+    },
+    {
+        "name": "Bielefeld: Funk-Taxi-Zentrale Hansa e.G.",
+        "address": {
+            "street": "Treppenstr, 3",
+            "city": "Bielefeld",
+            "zip": "33647",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "hansa3@web.de"
+    },
+    {
+        "name": "Bielefeld: Bielefelder Funk-Taxi-Zentrale e.G. (BIETA)",
+        "address": {
+            "street": "Eckendorfer Str, 91-93",
+            "city": "Bielefeld",
+            "zip": "33609",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@bieta.de"
+    },
+    {
+        "name": "Minden: MITAX UG",
+        "address": {
+            "street": "Bahnstr, 1",
+            "city": "Minden",
+            "zip": "32423",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@taxizentrale-minden.de"
+    },
+    {
+        "name": "Bremen: Taxi-Ruf Bremen 14 0 14",
+        "address": {
+            "street": "Jakobistr, 20",
+            "city": "Bremen",
+            "zip": "28195",
+            "federal_state": null
+        },
+        "e-mail address": "info@taxi-ruf-bremen.de"
+    },
+    {
+        "name": "Kiel: Vineta Verkehrsgesellschaft mbH",
+        "address": {
+            "street": "Segeberger Landstr, 2b",
+            "city": "Kiel",
+            "zip": "24145",
+            "federal_state": "Schleswig-Holstein"
+        },
+        "e-mail address": "willkommen@vineta.net"
+    },
+    {
+        "name": "Hamburg: Hansa-Funktaxi eG",
+        "address": {
+            "street": "Am Schiffbeker Berg 6a",
+            "city": "Hamburg",
+            "zip": "22111",
+            "federal_state": "Hamburg"
+        },
+        "e-mail address": "info@taxi211211.de"
+    },
+    {
+        "name": "Berlin: Quality Taxi Vermittlungs GmbH",
+        "address": {
+            "street": "Persiusstr, 7",
+            "city": "Berlin",
+            "zip": "10245",
+            "federal_state": "Berlin"
+        },
+        "e-mail address": "info@qualitytaxi.de"
+    },
+    {
+        "name": "Koblenz: Taxi Koblenz e.G.",
+        "address": {
+            "street": "Moselring 11",
+            "city": "Koblenz",
+            "zip": "56073",
+            "federal_state": "Rheinland-Pfalz"
+        },
+        "e-mail address": "zentrale@taxi-koblenz.org"
+    },
+    {
+        "name": "Solingen: Taxi Zentrale Solingen e.G.",
+        "address": {
+            "street": "Kronprinzenstr, 32a",
+            "city": "Solingen",
+            "zip": "42655",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@taxizentrale-solingen.de"
+    },
+    {
+        "name": "Bonn: Taxi Bonn e.G.",
+        "address": {
+            "street": "Mackestr, 32",
+            "city": "Bonn",
+            "zip": "53119",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@taxibonn.de"
+    },
+    {
+        "name": "Münster: Taxi Zentrale Münster e.G.",
+        "address": {
+            "street": "Krögerweg 14",
+            "city": "Münster",
+            "zip": "48155",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@taxi-60011.de"
+    },
+    {
+        "name": "Krefeld: Krefelder Funktaxi-Besitzerverein e. V.",
+        "address": {
+            "street": "Moltkeplatz 1",
+            "city": "Krefeld",
+            "zip": "47799",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@taxiruf-krefeld.de"
+    },
+    {
+        "name": "Duisburg: Taxi-Funktaxi-Zentrale e.G. Duisburg",
+        "address": {
+            "street": "Im Schlenk 78",
+            "city": "Duisburg",
+            "zip": "47055",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "verwaltung@taxi-duisburg.net"
+    },
+    {
+        "name": "Gelsenkirchen: Taxi Gelsen Interessengemeinschaft",
+        "address": {
+            "street": "Husemannstr, 59",
+            "city": "Gelsenkirchen",
+            "zip": "45879",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "mail@taxi-gelsen.de"
+    },
+    {
+        "name": "Marl: TAXI Jakubiak",
+        "address": {
+            "street": "Otto-Hue-Str, 10",
+            "city": "Marl",
+            "zip": "45772",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "order@taxi-jak.de"
+    },
+    {
+        "name": "Essen: Taxi Essen e.G.",
+        "address": {
+            "street": "Bottroper Straße 298a",
+            "city": "Essen",
+            "zip": "45356",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "verwaltung@taxiessen.de"
+    },
+    {
+        "name": "Bochum: Taxi Bochum e.G.",
+        "address": {
+            "street": "Ehrenfeldstr, 34",
+            "city": "Bochum",
+            "zip": "44789",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "buero@taxi-bochum.de"
+    },
+    {
+        "name": "Dortmund: Taxi Dortmund e.G.",
+        "address": {
+            "street": "Königswall 42",
+            "city": "Dortmund",
+            "zip": "44137",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@taxi-dortmund.de"
+    },
+    {
+        "name": "Hagen: Taxi Hagen e.G.",
+        "address": {
+            "street": "Elberfelder Str, 89",
+            "city": "Hagen",
+            "zip": "58095",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "vorstand@taxihagen.de"
+    },
+    {
+        "name": "Remscheid:  Funktaxi-Taxi-Vereinigung Remscheid",
+        "address": {
+            "street": "Lenneper Straße 2",
+            "city": "Remscheid",
+            "zip": "42855",
+            "federal_state": "Nordrhein-Westfalen"
+        },
+        "e-mail address": "info@taxi-remscheid.de"
+    },
+    {
+        "name": "Wiesbaden: Wiesbadener Taxi–Zentrale Taxi und Funktaxi eG WTZ",
+        "address": {
+            "street": "Kreuzberger Ring 50",
+            "city": "Wiesbaden",
+            "zip": "65205",
+            "federal_state": "Hessen"
+        },
+        "e-mail address": "wtz@taxiwiesbaden.de"
+    },
+    {
+        "name": "Hanau: Taxi-Dienst Hanau Stadt und Land e.G.",
+        "address": {
+            "street": "Am Hauptbahnhof 14a",
+            "city": "Hanau",
+            "zip": "63450",
+            "federal_state": "Hessen"
+        },
+        "e-mail address": "info@taxi-hanau.de"
+    },
+    {
+        "name": "Offenbach: Taxi-Funk Offenbach e.G.",
+        "address": {
+            "street": "Daimlerstr, 1",
+            "city": "Offenbach",
+            "zip": "63071",
+            "federal_state": "Hessen"
+        },
+        "e-mail address": "info@taxi-offenbach.de"
+    },
+    {
+        "name": "Frankfurt: Taxi Frankfurt eG",
+        "address": {
+            "street": "Heidelbergerstr,  25",
+            "city": "Frankfurt",
+            "zip": "60327",
+            "federal_state": "Hessen"
+        },
+        "e-mail address": "info@taxi-frankfurt.de"
+    }
+]
